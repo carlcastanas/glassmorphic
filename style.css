@@ -116,14 +116,14 @@ a, a:hover {
 .profile-card__name {
   font-weight: 700;
   font-size: 24px;
-  color: rgb(17, 17, 17);
+  color: rgb(255, 255, 255);
   text-shadow: aliceblue;
   margin-bottom: 15px;
 }
 .profile-card__txt {
   font-size: 18px;
   font-weight: 500;
-  color: rgb(17, 17, 17);
+  color: rgb(228, 213, 213);
   margin-bottom: 15px;
 }
 .profile-card__txt strong {
@@ -134,6 +134,7 @@ a, a:hover {
   justify-content: center;
   align-items: center;
   font-size: 18px;
+  color: rgb(228, 213, 213);
   font-weight: 600;
 }
 .profile-card-loc__icon {
@@ -182,7 +183,7 @@ a, a:hover {
   border-radius: 50%;
   align-items: center;
   justify-content: center;
-  color: rgb(17, 17, 17);
+  color: rgb(228, 213, 213);
   background: #405ce69f;
   box-shadow: 0px 7px 30px rgba(43, 98, 169, 0.322);
   position: relative;
